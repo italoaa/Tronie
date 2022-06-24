@@ -1,0 +1,26 @@
+#+TITLE: Multiplayer BlackJack
+#+AUTHOR: Italo Amaya
+
+* Preview
+#+DOWNLOADED: screenshot @ 2022-06-24 17:23:41
+#+attr_org: :width 300px
+[[file:files/20220624-172341_screenshot.png]]
+
+
+#+begin_quote
+This game was made with the intention to further understand the rust programming language and game development. I learned a lot about mathematics like Quaternions and vectors in this project.
+#+end_quote
+* Installation
+In order to use this game with a friend you will have to git clone the repository
+#+begin_src sh
+git clone git@github.com:italoaa/Black_Jackie.git
+#+end_src
+
+Then run
+#+begin_src sh
+cargo run
+#+end_src
+
+#+begin_quote
+I hope Its fun to play.
+#+end_quote
