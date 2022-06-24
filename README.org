@@ -1,4 +1,4 @@
-#+TITLE: Multiplayer BlackJack
+#+TITLE: Tronie
 #+AUTHOR: Italo Amaya
 
 * Preview
